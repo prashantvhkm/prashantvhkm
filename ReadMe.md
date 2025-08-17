@@ -18,7 +18,8 @@
 ## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prashantvhkm)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantvhkm)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://prashantvhkm.github.io) <!-- optional -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://prashantvhkm.github.io/portfolio/)  
+
 
 ---
 
@@ -78,8 +79,10 @@
 ## 😂 Random Dev Meme
 <img src="https://memer-new.vercel.app/" width="400"/>
 
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=prashantvhkm&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
